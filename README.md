@@ -24,6 +24,6 @@
 ### 版本下载：
 ### DOWNLOAD：
 
-
+[最新版本](https://github.com/Xiphoray/showmeyourbackground---offical/releases/download/V1.3/showmeyourbackground.exe)
 
 
