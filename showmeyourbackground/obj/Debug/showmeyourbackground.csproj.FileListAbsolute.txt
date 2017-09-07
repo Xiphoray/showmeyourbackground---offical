@@ -1,0 +1,25 @@
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.egg.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.egg1_2.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.egg1.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.egg2.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.egg3.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.egg4.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.MainForm.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.csproj.GenerateResource.Cache
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.exe
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.pdb
+D:\project C#\showmeyourbackground\showmeyourbackground\bin\Debug\showmeyourbackground.exe.config
+D:\project C#\showmeyourbackground\showmeyourbackground\bin\Debug\showmeyourbackground.exe
+D:\project C#\showmeyourbackground\showmeyourbackground\bin\Debug\showmeyourbackground.pdb
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.NoPic.resources
+D:\project C#\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.csprojResolveAssemblyReference.cache
+D:\showmeyourbackground\showmeyourbackground\bin\Debug\showmeyourbackground.exe.config
+D:\showmeyourbackground\showmeyourbackground\bin\Debug\showmeyourbackground.exe
+D:\showmeyourbackground\showmeyourbackground\bin\Debug\showmeyourbackground.pdb
+D:\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.csprojResolveAssemblyReference.cache
+D:\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.MainForm.resources
+D:\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.NoPic.resources
+D:\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.csproj.GenerateResource.Cache
+D:\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.csproj.CoreCompileInputs.cache
+D:\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.exe
+D:\showmeyourbackground\showmeyourbackground\obj\Debug\showmeyourbackground.pdb
